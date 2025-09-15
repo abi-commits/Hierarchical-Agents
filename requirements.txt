@@ -1,0 +1,10 @@
+langgraph
+langchain_community 
+langchain_openai
+langchain-tavily 
+langchain_experimental
+langchain_core
+langchain_groq
+python-dotenv
+pydantic
+httpx
