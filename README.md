@@ -3,7 +3,7 @@
 A sophisticated multi-tier agent system using LangGraph for coordinating research, writing, and visualization tasks.
 
 <p align="center">
-  <img src="./agents.png" alt="Agents diagram" width="700"/>
+  <img src="./multiagents.jpeg" alt="Agents diagram" width="700"/>
 </p>
 
 ## 🏗️ Architecture
